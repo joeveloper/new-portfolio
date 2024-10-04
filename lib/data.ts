@@ -33,6 +33,14 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "SKIYWATER - Frontend Team Lead / Snr FE",
+    location: "Remote",
+    description:
+      "I lead a team of 3 developers in the development of a new product for the company. I also contribute to the development of the product using React, Next.js, and TailwindCSS. \n I also mentor junior developers and conduct code reviews.",
+    icon: React.createElement(LuLaptop),
+    date: "July 2024 - present",
+  },
+  {
     title: "AITM Program - Self Employed",
     location: "Remote",
     description:
@@ -121,7 +129,7 @@ export const skillsData = [
   "GraphQL",
   "Grafana",
   "Jest",
-  "HAProxy",
+  "Cypress",
   "Postman",
   "Strapi",
   "RESTApi",
